@@ -1,0 +1,14 @@
+.page-content {
+    width: 100vw;
+    background-color: rgb(250, 249, 247);
+    height: 90vh;
+  }
+  .demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+    margin: 65px;
+  }
+  .demo-card-square > .mdl-card__title {
+    color: #fff;
+    background: url("") bottom right 15% no-repeat #46b6ac;
+  }
